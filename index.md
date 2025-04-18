@@ -77,10 +77,10 @@ Finally, the automation updates the contact’s list membership in HubSpot by re
 ## Impact and Results
 This Make.com automation significantly reduced the amount of time spent on manual data entry and coordination, with immediate benefits:
 
-* *Time savings:* Manual data transfer that once took hours per week is now fully automated.
-* *Increased accuracy:* Structured data capture eliminates common entry errors.
-* *Team responsiveness:* Real-time Slack alerts ensure updates are acted on faster.
-* *Audit-ready data:* All emails and actions are now logged across Sheets, Asana, and HubSpot.
+* **Time savings:** Manual data transfer that once took hours per week is now fully automated.
+* **Increased accuracy:** Structured data capture eliminates common entry errors.
+* **Team responsiveness:** Real-time Slack alerts ensure updates are acted on faster.
+* **Audit-ready data:** All emails and actions are now logged across Sheets, Asana, and HubSpot.
 
 ## Why This Matters
 
