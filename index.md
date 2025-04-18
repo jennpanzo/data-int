@@ -13,7 +13,7 @@ Working across different systems often meant duplicated efforts and increased ch
 
 Rather than continuing to rely on fragmented manual processes, we decided to automate the most time-consuming parts of the workflow. The solution demonstrates how automation can eliminate bottlenecks, improve accuracy, and ensure our team can act quickly on new information.
 
-## Business Context
+## **Business Context**
 
 I built this project to solve data coordination issues for a growing entertainment data company. The team maintains a comprehensive database of entertainment industry talent (actors, musicians, comedians, and athletes) by continuously collecting client roster data from partner agencies. These partners regularly send updated roster information through email, which the team historically had to extract manually, then enter into spreadsheets, and track in project management systems.
 This manual process introduced several pain points:
@@ -25,7 +25,7 @@ This manual process introduced several pain points:
 
 The goal was to automate as much of this pipeline as possible, from the moment updated information arrives via email, to tracking and alerting the team to take action, which ultimately increases efficiency, accountability, and data reliability.
 
-## Overview of the Workflow
+## **Overview of the Workflow**
 
 This Make.com scenario connects five platforms: HubSpot, Gmail (via HubSpot integration), Google Sheets, Asana, and Slack. 
 
@@ -74,7 +74,7 @@ Once the task is created, a message is sent to the #rosters Slack channel. This 
 Finally, the automation updates the contact’s list membership in HubSpot by removing them from the "Leads" list and adding them to the "Partners" list. This step helps maintain CRM hygiene and ensures contacts are categorized correctly for future workflows.
 
 
-## Impact and Results
+## **Impact and Results**
 This Make.com automation significantly reduced the amount of time spent on manual data entry and coordination, with immediate benefits:
 
 * **Time savings:** Manual data transfer that once took hours per week is now fully automated.
@@ -82,7 +82,7 @@ This Make.com automation significantly reduced the amount of time spent on manua
 * **Team responsiveness:** Real-time Slack alerts ensure updates are acted on faster.
 * **Audit-ready data:** All emails and actions are now logged across Sheets, Asana, and HubSpot.
 
-## Why This Matters
+## **Why This Matters**
 
 To address the fragmented nature of our workflow, I built an end-to-end solution that connects each tool through Make.com. The solution demonstrates how automation can eliminate bottlenecks, improve accuracy, and ensure our team can act quickly on new information. By connecting the tools we already use, we were able to create a streamlined workflow that reduces manual work and supports better decision-making.
 
