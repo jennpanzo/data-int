@@ -7,7 +7,7 @@ layout: home
 
 ![Data Integration in Make](images/make-hs-2.png)
 
-## Overview
+## **Overview**
 
 Working across different systems often meant duplicated efforts and increased chances of error. For this project, I designed and implemented an automated workflow using Make.com to improve data integrity, reduce manual labor, and streamline communication across tools like HubSpot, Google Sheets, Asana, and Slack.
 
