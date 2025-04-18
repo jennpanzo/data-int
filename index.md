@@ -32,7 +32,7 @@ This Make.com scenario connects five platforms: HubSpot, Gmail (via HubSpot inte
 Whenever we receive a roster list from a partner, the data coordinator adds the contact on the “Leads” email list. Then, we send the email containing the roster to our email address, rosters@domain.com, where we compile all of the roster data we receive.
 
 
-### Step 1: Trigger – Watch for New Members in HubSpot “Leads” List
+### Step 1: Set Trigger as Watch for Members Added to a List
 
 The workflow begins when a new contact is added to a static list in HubSpot called "Leads."
 
