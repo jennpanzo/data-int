@@ -7,7 +7,6 @@ layout: home
 
 ###### _Tools: HubSpot, Google Sheets, Make_
 <br/>
-
 ![Data Integration in Make](images/make-hs-2.png)
 
 ## **Overview**
