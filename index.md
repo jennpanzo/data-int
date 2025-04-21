@@ -5,7 +5,8 @@ layout: home
 
 # Standardized Data Integration Process
 
-##### _Tools: HubSpot, Google Sheets, Make_
+###### _Tools: HubSpot, Google Sheets, Make_
+&nbsp;
 
 ![Data Integration in Make](images/make-hs-2.png)
 
