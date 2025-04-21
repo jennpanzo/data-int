@@ -5,11 +5,15 @@ layout: home
 
 # Standardized Data Integration Process
 
+##### _Tools: HubSpot, Google Sheets, Make_
+
 ![Data Integration in Make](images/make-hs-2.png)
 
 ## **Overview**
 
-Working across different systems often meant duplicated efforts and increased chances of error. For this project, I designed and implemented an automated workflow using Make.com to improve data integrity, reduce manual labor, and streamline communication across tools like HubSpot, Google Sheets, Asana, and Slack.
+A data company I work with maintained an established process for handling incoming client roster updates, but the workflow was highly manual, requiring extensive copying and pasting across multiple platforms. The process also involved multiple team members working across time zones, which introduced delays and increased the risk of errors during handoffs.
+
+To address this, I designed and implemented an automated workflow using Make.com to improve data integrity, reduce manual labor, and streamline communication across tools like HubSpot, Google Sheets, Asana, and Slack.
 
 Rather than continuing to rely on fragmented manual processes, we decided to automate the most time-consuming parts of the workflow. The solution demonstrates how automation can eliminate bottlenecks, improve accuracy, and ensure our team can act quickly on new information.
 
